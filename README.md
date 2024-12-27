@@ -11,6 +11,7 @@ In each solar system, you will be able to select one world to explore, after whi
 
 Additionally, you will also occassionally encounter anomalies when exploring which can have good or bad results depending on your response. These scenarios are customizable and are drawn from the anomalies text file.
 
+
 File Descriptions:
 
 Main.java - Runs the Star-Hopper game using the classes established in the other files.
