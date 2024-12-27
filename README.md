@@ -1,3 +1,5 @@
+How to Play:
+
 Star-Hopper is a text-based space survival game where your goal is to find a habitable planet to colonize. Planets are generated with several stats affecting their overall habitability.
 You win the game when you find a planet that can be safely colonized.
 
